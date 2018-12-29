@@ -1,0 +1,21 @@
+{
+  "name": "void",
+  "version": "1.0.0",
+  "description": "NizzQ's personal bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NizzQ",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^0.6.3",
+    "dateformat": "^3.0.3",
+    "db": "^1.1.1",
+    "discord.js": "^11.4.2",
+    "moment": "^2.23.0",
+    "ms": "^2.1.1",
+    "quick.db": "^7.0.0-b17",
+    "sqlite3": "^4.0.4"
+  }
+}
